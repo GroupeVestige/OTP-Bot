@@ -1,6 +1,6 @@
 # OTP-Bot
 
-Join our discord --> [Discord](https://discord.com/d2Ur4623uZ)
+Join our discord --> [Discord](https://discord.gg/TJ7Sx2FrdC)
 
 A powerful, menu-driven Telegram OTP bot that automates @ttacks via phone calls and SMS, using third party API to get the data.
 
@@ -22,7 +22,7 @@ This platform includes a built-in, tiered subscription management system. As the
 - Subscription Tiers (Test, 7 Days, 1 Month, 3 Months, Lifetime)
 - US Number Validation (Ensures targets are in correct format)
 
-Check it out --> [Discord](https://discord.com/d2Ur4623uZ)
+Check it out --> [Discord](https://discord.gg/TJ7Sx2FrdC)
 
 ⚠️ **DISCLAIMER — READ CAREFULLY BEFORE USING THIS SOFTWARE** ⚠️
 
